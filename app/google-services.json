@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "801885633107",
+    "firebase_url": "https://chat-ec1c8.firebaseio.com",
+    "project_id": "chat-ec1c8",
+    "storage_bucket": "chat-ec1c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801885633107:android:1d304726e940cc1b",
+        "android_client_info": {
+          "package_name": "paluch.ivanna.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801885633107-fotqf7h0l2rbd7g94qtcg8d3r8523dns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "paluch.ivanna.chat",
+            "certificate_hash": "2c101a8abb401455b463ade750a2fa81ebbdf46e"
+          }
+        },
+        {
+          "client_id": "801885633107-ver3ppmaki4pc1asje1vi3j4es91iuth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_NlhQQiHmFKetGGN7Nc3VGaa-cxZJ5A0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801885633107-ver3ppmaki4pc1asje1vi3j4es91iuth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

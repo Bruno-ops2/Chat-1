@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="logout">Log Out</string>
+    <string name="signed_in">Signed in</string>
+    <string name="faild_to_sing_in">Faild to sign in</string>
+    <string name="log_out_message">Sign out completed</string>
+    <string name="empty_input">Enter your text message!</string>
+</resources>
